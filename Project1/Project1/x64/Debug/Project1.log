@@ -1,0 +1,6 @@
+﻿  test.c
+D:\BianCheng\C\test\str-fun\Project1\test.c(42,2): warning C4002: 类函数宏的调用“assert”参数过多
+D:\BianCheng\C\test\str-fun\Project1\test.c(43,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\BianCheng\C\test\str-fun\Project1\test.c(43,18): warning C4090: “初始化”: 不同的“const”限定符
+D:\BianCheng\C\test\str-fun\Project1\test.c(43,29): warning C4090: “初始化”: 不同的“const”限定符
+  Project1.vcxproj -> D:\BianCheng\C\test\str-fun\Project1\x64\Debug\Project1.exe
